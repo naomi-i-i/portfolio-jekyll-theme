@@ -10,3 +10,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Home"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Paul Le"
+ 
